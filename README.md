@@ -252,4 +252,4 @@ formularioLogin.addEventListener('submit', (e) => {
 ## Demo y Video
 
 - **GitHub Pages (Live Demo):** https://aleksardio.github.io/Actividad2-utileria.js/
-- **Video Promocional (Máx 1 min):**https://youtu.be/MHsIbqTdwLQ
+- **Video Promocional:** https://youtu.be/MHsIbqTdwLQ
