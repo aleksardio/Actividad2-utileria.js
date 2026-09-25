@@ -251,5 +251,5 @@ formularioLogin.addEventListener('submit', (e) => {
 
 ## Demo y Video
 
-- **GitHub Pages (Live Demo):** _agrega aquí tu enlace_
-- **Video Promocional (Máx 1 min):** _agrega aquí tu enlace_
+- **GitHub Pages (Live Demo):**
+- **Video Promocional (Máx 1 min):**
