@@ -8,7 +8,7 @@
 - **Unidad:** Unidad 2
 - **Docente:** Adelina Martínez Nieto
 - **Alumno:** Aquino Rosales Aleks Jesús
-- **Hora:** 10:00 - 1:00
+- **Hora:** 10:00 - 11:00 a.m.
 
 ---
 
@@ -251,5 +251,5 @@ formularioLogin.addEventListener('submit', (e) => {
 
 ## Demo y Video
 
-- **GitHub Pages (Live Demo):**
-- **Video Promocional (Máx 1 min):**
+- **GitHub Pages (Live Demo):** https://aleksardio.github.io/Actividad2-utileria.js/
+- **Video Promocional (Máx 1 min):**https://youtu.be/MHsIbqTdwLQ
